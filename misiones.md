@@ -1,3 +1,4 @@
 # Misiones
 
-** Investigar al Dr. maloso
+** Investigar al Dr. Maloso
+** Capturar al pirata Barba Negra
