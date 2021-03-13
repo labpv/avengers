@@ -18,3 +18,4 @@
 * Antman
 * Capitán America
 * Nick Fury
+* El Chapulin Colorado
